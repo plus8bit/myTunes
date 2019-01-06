@@ -119,6 +119,11 @@ a {
   margin-bottom: 1rem;
 }
 
+.bg-light {
+  background: var(--light-color);
+  color: #333;
+}
+
 .mt {
   margin-top: 1rem; 
 }
